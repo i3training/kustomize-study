@@ -1,0 +1,9 @@
+bases:
+  - ../../base
+patches:
+  - api-patch.yaml
+
+components:
+  - ../../components/auth
+
+nameSuffix: -prod
